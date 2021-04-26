@@ -1,0 +1,3 @@
+/home/lzb/huawei2021-3.21-2-tijiao/build/CMakeFiles/rebuild_cache.dir
+/home/lzb/huawei2021-3.21-2-tijiao/build/CMakeFiles/CodeCraft-2021.dir
+/home/lzb/huawei2021-3.21-2-tijiao/build/CMakeFiles/edit_cache.dir
